@@ -1,0 +1,11 @@
+.titulo1{
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-family: 'Kolker Brush', cursive;
+}
+.titulo2{
+    font-family: 'Rubik Bubbles', cursive;
+    font-size: 1rem;
+}
