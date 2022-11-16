@@ -9,3 +9,11 @@
     font-family: 'Rubik Bubbles', cursive;
     font-size: 1rem;
 }
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: purple;
+    color: brown;
+}
