@@ -17,3 +17,30 @@ button{
     background-color: purple;
     color: brown;
 }
+.table{
+    border-collapse: collapse;
+}
+.table td{
+    border: 1px solid;
+    text-align: center;
+}
+.table th:hover{
+    color: blueviolet;
+    background-color: aquamarine;
+}
+table tr{
+    color: bisque;
+    background-color: darkcyan;
+    font-family: 'Rubik Bubbles', cursive;
+}
+caption{
+    font-family: 'Kolker Brush', cursive;
+}
+.table td:hover{
+    color: aqua;
+    background-color: greenyellow;
+}
+body{
+    background-color: chartreuse;
+    color: coral;
+}
